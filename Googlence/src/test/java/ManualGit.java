@@ -5,6 +5,10 @@ public class ManualGit {
 	{
 		//System.out.println("hello git");
 		//jhgjhg
+		System.out.println("aashu singh");
+		
+		System.out.println("aashu singh111");
+		System.out.println("aashu singh34566");
 	}
 
 }
